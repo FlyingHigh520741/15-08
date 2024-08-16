@@ -1,0 +1,26 @@
+- NodeJS
+Roda o JS fora do navegador
+
+Vem jnt com NPM
+    Gerenciador de pacotes
+
+
+- No terminal
+node -v / npm -v
+    ver versao e se esta instalado
+
+npm create vite@latest
+React
+JavaScript
+
+
+
+npm i
+
+node_modules
+    Dependencias das Dependencias, o gitignore nao deixa subir pro git
+
+JSX
+    Componentes sempre começam com letra maiuscula
+
+npm run dev - abre o projeto
